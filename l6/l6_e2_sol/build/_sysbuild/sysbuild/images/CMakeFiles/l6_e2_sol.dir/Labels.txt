@@ -1,0 +1,13 @@
+# Target labels
+ l6_e2_sol
+# Source files and their labels
+C:/Users/Javad/Videos/Zypher/zypher/l6/l6_e2_sol/build/_sysbuild/sysbuild/images/CMakeFiles/l6_e2_sol
+C:/Users/Javad/Videos/Zypher/zypher/l6/l6_e2_sol/build/_sysbuild/sysbuild/images/CMakeFiles/l6_e2_sol.rule
+C:/Users/Javad/Videos/Zypher/zypher/l6/l6_e2_sol/build/_sysbuild/sysbuild/images/CMakeFiles/l6_e2_sol-complete.rule
+C:/Users/Javad/Videos/Zypher/zypher/l6/l6_e2_sol/build/_sysbuild/sysbuild/images/l6_e2_sol-prefix/src/l6_e2_sol-stamp/l6_e2_sol-build.rule
+C:/Users/Javad/Videos/Zypher/zypher/l6/l6_e2_sol/build/_sysbuild/sysbuild/images/l6_e2_sol-prefix/src/l6_e2_sol-stamp/l6_e2_sol-configure.rule
+C:/Users/Javad/Videos/Zypher/zypher/l6/l6_e2_sol/build/_sysbuild/sysbuild/images/l6_e2_sol-prefix/src/l6_e2_sol-stamp/l6_e2_sol-download.rule
+C:/Users/Javad/Videos/Zypher/zypher/l6/l6_e2_sol/build/_sysbuild/sysbuild/images/l6_e2_sol-prefix/src/l6_e2_sol-stamp/l6_e2_sol-install.rule
+C:/Users/Javad/Videos/Zypher/zypher/l6/l6_e2_sol/build/_sysbuild/sysbuild/images/l6_e2_sol-prefix/src/l6_e2_sol-stamp/l6_e2_sol-mkdir.rule
+C:/Users/Javad/Videos/Zypher/zypher/l6/l6_e2_sol/build/_sysbuild/sysbuild/images/l6_e2_sol-prefix/src/l6_e2_sol-stamp/l6_e2_sol-patch.rule
+C:/Users/Javad/Videos/Zypher/zypher/l6/l6_e2_sol/build/_sysbuild/sysbuild/images/l6_e2_sol-prefix/src/l6_e2_sol-stamp/l6_e2_sol-update.rule

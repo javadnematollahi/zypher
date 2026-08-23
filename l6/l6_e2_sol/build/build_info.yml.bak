@@ -1,0 +1,28 @@
+cmake:
+  application:
+    source-dir: 'C:/ncs/v3.4.0/zephyr/share/sysbuild'
+  board:
+    name: 'thingy53'
+    path:
+     - 'C:/ncs/v3.4.0/zephyr/boards/nordic/thingy53'
+    qualifiers: 'nrf5340/cpuapp'
+    revision: ''
+  images:
+   - name: 'l6_e2_sol'
+     source-dir: 'C:/Users/Javad/Videos/Zypher/zypher/l6/l6_e2_sol'
+     type: 'MAIN'
+   - name: 'mcuboot'
+     source-dir: 'C:/ncs/v3.4.0/bootloader/mcuboot/boot/zephyr'
+     type: 'BOOTLOADER'
+  kconfig:
+    files:
+     - 'C:/Users/Javad/Videos/Zypher/zypher/l6/l6_e2_sol/build/_sysbuild/empty.conf'
+     - 'c:/Users/Javad/Videos/Zypher/zypher/l6/l6_e2_sol/sysbuild.conf'
+    user-files:
+     - 'c:/Users/Javad/Videos/Zypher/zypher/l6/l6_e2_sol/sysbuild.conf'
+  sysbuild: 'true'
+version: '0.1.0'
+west:
+  command: 'C:\ncs\toolchains\dcbdc366a1\opt\bin\Scripts\west build --build-dir c:/Users/Javad/Videos/Zypher/zypher/l6/l6_e2_sol/build c:/Users/Javad/Videos/Zypher/zypher/l6/l6_e2_sol --pristine --board thingy53/nrf5340/cpuapp -- -DCONFIG_DEBUG_THREAD_INFO=y'
+  topdir: 'c:\ncs\v3.4.0'
+  version: '1.5.0'

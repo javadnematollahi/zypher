@@ -1,0 +1,10 @@
+default: l6_e2_sol
+build_dir: C:/Users/Javad/Videos/Zypher/zypher/l6/l6_e2_sol/build
+domains:
+  - name: l6_e2_sol
+    build_dir: C:/Users/Javad/Videos/Zypher/zypher/l6/l6_e2_sol/build/l6_e2_sol
+  - name: mcuboot
+    build_dir: C:/Users/Javad/Videos/Zypher/zypher/l6/l6_e2_sol/build/mcuboot
+flash_order:
+  - mcuboot
+  - l6_e2_sol

@@ -1,0 +1,15 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Javad/Videos/Zypher/zypher/l6/l6_e2_sol/build/cmake_install.cmake",
+		"C:/Users/Javad/Videos/Zypher/zypher/l6/l6_e2_sol/build/_sysbuild/cmake_install.cmake",
+		"C:/Users/Javad/Videos/Zypher/zypher/l6/l6_e2_sol/build/_sysbuild/sysbuild/images/cmake_install.cmake",
+		"C:/Users/Javad/Videos/Zypher/zypher/l6/l6_e2_sol/build/_sysbuild/sysbuild/images/bootloader/cmake_install.cmake",
+		"C:/Users/Javad/Videos/Zypher/zypher/l6/l6_e2_sol/build/_sysbuild/sysbuild/images/firmware_loader/cmake_install.cmake",
+		"C:/Users/Javad/Videos/Zypher/zypher/l6/l6_e2_sol/build/modules/nrf/cmake_install.cmake",
+		"C:/Users/Javad/Videos/Zypher/zypher/l6/l6_e2_sol/build/modules/mcuboot/cmake_install.cmake",
+		"C:/Users/Javad/Videos/Zypher/zypher/l6/l6_e2_sol/build/_sysbuild/sysbuild/images/boards/cmake_install.cmake",
+		"C:/Users/Javad/Videos/Zypher/zypher/l6/l6_e2_sol/build/_sysbuild/sysbuild/images/soc/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

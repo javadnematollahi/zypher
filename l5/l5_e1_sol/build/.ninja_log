@@ -1,0 +1,19 @@
+# ninja log v7
+46	189	8090437641535574	_sysbuild/sysbuild/images/l5_e1_sol-prefix/src/l5_e1_sol-stamp/l5_e1_sol-mkdir	a882f0f70f4c5320
+46	189	8090437641535574	C:/Users/Javad/Videos/Zypher/zypher/l5/l5_e1_sol/build/_sysbuild/sysbuild/images/l5_e1_sol-prefix/src/l5_e1_sol-stamp/l5_e1_sol-mkdir	a882f0f70f4c5320
+190	317	8090437642808248	_sysbuild/sysbuild/images/l5_e1_sol-prefix/src/l5_e1_sol-stamp/l5_e1_sol-download	8387be486160e2ec
+190	317	8090437642808248	C:/Users/Javad/Videos/Zypher/zypher/l5/l5_e1_sol/build/_sysbuild/sysbuild/images/l5_e1_sol-prefix/src/l5_e1_sol-stamp/l5_e1_sol-download	8387be486160e2ec
+317	445	8090437644102649	_sysbuild/sysbuild/images/l5_e1_sol-prefix/src/l5_e1_sol-stamp/l5_e1_sol-update	964b171ea4e64329
+317	445	8090437644102649	C:/Users/Javad/Videos/Zypher/zypher/l5/l5_e1_sol/build/_sysbuild/sysbuild/images/l5_e1_sol-prefix/src/l5_e1_sol-stamp/l5_e1_sol-update	964b171ea4e64329
+450	586	8090437645500612	_sysbuild/sysbuild/images/l5_e1_sol-prefix/src/l5_e1_sol-stamp/l5_e1_sol-patch	b994a510303145bd
+450	586	8090437645500612	C:/Users/Javad/Videos/Zypher/zypher/l5/l5_e1_sol/build/_sysbuild/sysbuild/images/l5_e1_sol-prefix/src/l5_e1_sol-stamp/l5_e1_sol-patch	b994a510303145bd
+586	710	8090437646752252	_sysbuild/sysbuild/images/l5_e1_sol-prefix/src/l5_e1_sol-stamp/l5_e1_sol-configure	6793c2690e99f629
+586	710	8090437646752252	C:/Users/Javad/Videos/Zypher/zypher/l5/l5_e1_sol/build/_sysbuild/sysbuild/images/l5_e1_sol-prefix/src/l5_e1_sol-stamp/l5_e1_sol-configure	6793c2690e99f629
+710	136202	8090437646855566	_sysbuild/sysbuild/images/l5_e1_sol-prefix/src/l5_e1_sol-stamp/l5_e1_sol-build	3ab0a87e37b2d5a1
+710	136202	8090437646855566	C:/Users/Javad/Videos/Zypher/zypher/l5/l5_e1_sol/build/_sysbuild/sysbuild/images/l5_e1_sol-prefix/src/l5_e1_sol-stamp/l5_e1_sol-build	3ab0a87e37b2d5a1
+136202	136302	8090439001752529	_sysbuild/sysbuild/images/l5_e1_sol-prefix/src/l5_e1_sol-stamp/l5_e1_sol-install	94cd5f154ed379d3
+136202	136302	8090439001752529	C:/Users/Javad/Videos/Zypher/zypher/l5/l5_e1_sol/build/_sysbuild/sysbuild/images/l5_e1_sol-prefix/src/l5_e1_sol-stamp/l5_e1_sol-install	94cd5f154ed379d3
+136302	136497	8090439004598277	_sysbuild/sysbuild/images/CMakeFiles/l5_e1_sol-complete	52b86881aca497ad
+136302	136497	8090439004598277	_sysbuild/sysbuild/images/l5_e1_sol-prefix/src/l5_e1_sol-stamp/l5_e1_sol-done	52b86881aca497ad
+136302	136497	8090439004598277	C:/Users/Javad/Videos/Zypher/zypher/l5/l5_e1_sol/build/_sysbuild/sysbuild/images/CMakeFiles/l5_e1_sol-complete	52b86881aca497ad
+136302	136497	8090439004598277	C:/Users/Javad/Videos/Zypher/zypher/l5/l5_e1_sol/build/_sysbuild/sysbuild/images/l5_e1_sol-prefix/src/l5_e1_sol-stamp/l5_e1_sol-done	52b86881aca497ad
